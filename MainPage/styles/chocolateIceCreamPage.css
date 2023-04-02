@@ -1,0 +1,406 @@
+.body {
+    margin-left: 500px;
+}
+
+.main {
+    margin-left: 500px;
+}
+.border_rectangle {
+    box-sizing: border-box;
+    position: absolute;
+    width: 500px;
+    height: 995px;
+    left: 500px;
+    top: 0px;
+    background: white;
+    border: 2px solid #F8D24E;
+    border-radius: 10px;
+}
+
+.x_button {
+    position: absolute;
+    margin-top: 5px;
+    margin-left: 470px;
+}
+
+
+.chocolate_icecream {
+    font-family: 'Seymour One', sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    position: absolute;
+    display: inline-flex;
+    width: 550px;
+    justify-content: center;
+    align-items: center;
+    margin-left: -35px;
+}
+.main_image {
+    position: absolute;
+    margin-left: 150px;
+    top: 70px;
+}
+.image1 {
+    position: absolute;
+    left: 50px;
+    top: 246px;
+}
+
+.kcal_number {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    color: #131313;
+    position: absolute;
+    left: 100px;
+    top: 258px;
+    position: absolute;
+}
+.image2 {
+    position: absolute;
+    left: 145px;
+    top: 246px;
+}
+.image3 {
+    position: absolute;
+    left: 240px;
+    top: 246px;
+}
+.image4 {
+    position: absolute;
+    left: 335px;
+    top: 246px;
+}
+
+
+.ingredients {
+    position: absolute;
+    width: 118px;
+    height: 28px;
+    left: 185px;
+    top: 370px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #131313;
+}
+
+
+
+
+.milk {
+    position: absolute;
+    width: 31px;
+    height: 25px;
+    left: 40px;
+    top: 436px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 176%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.04em;
+    color: #131313;
+}
+
+.milk_ml {
+    position: absolute;
+    width: 55px;
+    height: 25px;
+    left: 400px;
+    top: 436px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 176%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.04em;
+    color: #131313;
+}
+.belgian_chocolate {
+    position: absolute;
+    width: 150px;  
+    height: 25px;
+    left: 40px;
+    top: 472px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 176%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.04em;
+    color: #131313;
+}
+
+
+
+
+.chocolate_g {
+    position: absolute;
+    width: 28px;
+    height: 25px;
+    left: 420px;
+    top: 472px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 176%;
+    display: flex;
+    align-items: center;    
+    text-align: center;
+    letter-spacing: 0.04em;
+    color: #131313;
+}
+
+
+
+.cream {
+    position: absolute;
+    width: 50px;
+    height: 25px;
+    left: 40px;
+    top: 508px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 176%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.04em;
+    color: #131313;
+}
+
+
+
+
+.cream_ml {
+    position: absolute;
+    width: 48px;
+    height: 25px;
+    left: 400px;
+    top: 508px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 176%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.04em;
+    color: #131313;
+}
+
+.cocoa {
+    position: absolute;
+    width: 135px;
+    height: 25px;
+    left: 40px;
+    top: 544px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 176%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.04em;
+    color: #131313;
+}
+
+
+.cocoa_g {
+    position: absolute;
+    width: 33px;
+    height: 25px;
+    left: 420px;
+    top: 544px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 176%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.04em;
+    color: #131313;
+}
+
+
+
+
+.sugar {
+    position: absolute;
+    width: 44px;
+    height: 25px;
+    left: 40px;
+    top: 580px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 176%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.04em;
+    color: #131313;
+}
+
+
+
+
+.sugar_g {
+    position: absolute;
+    width: 30px;
+    height: 25px;
+    left: 420px;
+    top: 580px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 176%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.04em;
+    color: #131313;
+}
+
+
+
+
+.vanilla {
+    position: absolute;
+    width: 97px;
+    height: 25px;
+    left: 40px;
+    top: 616px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 176%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.04em;
+    color: #131313;
+}
+
+.vanilla_g {
+    position: absolute;
+    width: 26px;
+    height: 25px;
+    left: 420px;
+    top: 616px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;    
+    line-height: 176%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.04em;
+    color: #131313;
+}
+.input {
+    margin-left: 55px;
+    position: absolute;
+    margin-top: 700px;
+}
+input[type="text_name" i] {
+    appearance: auto;
+    box-sizing: border-box;
+    padding: 6px 175px 7px 20px;
+    border-radius: 10px;
+    background: rgba(248, 210, 78, 0.1);
+    border: 1px solid #84A178;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 140%;
+  }
+
+
+  .input_phone {
+    margin-left: 55px;
+    position: absolute;
+    margin-top: 750px;
+  }
+  input[type="text_phone" i] {
+    appearance: auto;
+    box-sizing: border-box;
+    padding: 6px 175px 7px 20px;
+    border-radius: 10px;
+    background: rgba(248, 210, 78, 0.1);
+    border: 1px solid #84A178;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 140%;
+  }
+
+
+  .input_address {
+    margin-left: 55px;
+    position: absolute;
+    margin-top: 800px;
+  }
+  input[type="text_address" i] {
+    appearance: auto;
+    box-sizing: border-box;
+    padding: 6px 175px 50px 20px;
+    border-radius: 10px;
+    background: rgba(248, 210, 78, 0.1);
+    border: 1px solid #84A178;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 140%;  
+  }
+
+
+
+
+
+.buy_button {
+    position: absolute;
+    width: 121px;
+    height: 42px;
+    left: 175px;
+    top: 907px;
+    background: #F8D24E;
+    border-radius: 10px;
+}
+
+.buy {
+    margin-left: 0px;
+    margin-top: 10px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}

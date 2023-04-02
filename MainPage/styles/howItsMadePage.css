@@ -1,0 +1,265 @@
+.how_its_made {
+    position: absolute;
+    width: 500px;
+    height: 28px;
+    left: 500px;
+    top: 5px;
+    font-family: 'Seymour One';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #131313;
+}
+.video {
+    width: 770px;
+    margin-top: 100px;
+    margin-left: 310px;
+    border-radius: 10px;
+}
+
+
+.x_button {
+    position: absolute;
+    margin-top: 5px;
+    margin-left: 1095px;
+}
+
+
+.how {
+    position: absolute;
+    width: 700px;
+    height: 28px;
+    left: 400px;
+    top: 575px;
+    font-family: 'Seymour One';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #131313;
+}
+
+
+
+
+.line1 {
+    width: 700px;
+    height: 1px;
+    background-color: black;
+    margin-left: 340px;
+    opacity: 50%;
+    margin-top: 135px;
+    position: absolute;
+}
+
+.text1 {
+    font-family: sans-serif;
+    font-size: 20px;
+    width: 750px;
+    margin-left: 315px;
+    margin-top: 200px;
+}
+
+
+
+.information {
+    position: absolute;
+    width: 1000px;
+    height: 28px;
+    left: 345px;
+    top: 1250px;
+    font-family: 'Seymour One';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #131313;
+}
+.line2 { 
+    width: 700px;
+    height: 1px;
+    background-color: black;
+    position: absolute;
+    margin-left: 340px;
+    margin-top: 95px;
+}
+
+.type {
+    margin-left: 320px;
+    margin-top: 170px;
+    font-family: sans-serif;
+    font-style: normal;
+}
+
+.proteing {
+    font-family: sans-serif;
+    margin-left: 570px;
+    margin-top: -55px;
+}
+
+
+
+.fat {
+    font-family: sans-serif;
+    margin-left: 670px;
+    margin-top: -53px;
+}
+.carbohydrate {
+    font-family: sans-serif;
+    margin-left: 735px;
+    margin-top: -53px;
+}
+.energy {
+    font-family: sans-serif;
+    margin-left: 870px;
+    margin-top: -52px;
+}
+.calcium {
+    font-family: sans-serif;
+    margin-left: 955px;
+    margin-top: -52px; 
+}
+.vanilla {
+    margin-left: 320px;
+    margin-top: 50px;
+    font-family: sans-serif;
+    font-style: normal;
+}
+
+
+
+
+.vanilla1 {
+    font-family: sans-serif;
+    margin-left: 570px;
+    margin-top: -35px;
+}
+.vanilla2 {
+    font-family: sans-serif;
+    margin-left: 670px;
+    margin-top: -35px;
+}
+.vanilla3 {
+    font-family: sans-serif;
+    margin-left: 735px;
+    margin-top: -35px;
+}
+.vanilla4 {
+    font-family: sans-serif;
+    margin-left: 870px;
+    margin-top: -35px;
+}
+.vanilla5 {
+    font-family: sans-serif;
+    margin-left: 955px;
+    margin-top: -35px;
+}
+.reduced {
+    margin-left: 320px;
+    margin-top: 50px;
+    font-family: sans-serif;
+    font-style: normal;
+}
+
+.reduced1 {
+    font-family: sans-serif;
+    margin-left: 570px;
+    margin-top: -35px;
+}
+
+
+
+.reduced2 {
+    font-family: sans-serif;
+    margin-left: 670px;
+    margin-top: -35px;
+}
+.reduced3 {
+    font-family: sans-serif;
+    margin-left: 735px;
+    margin-top: -35px;
+}
+.reduced4 {
+    font-family: sans-serif;
+    margin-left: 870px;
+    margin-top: -35px;
+}
+.reduced5 {
+    font-family: sans-serif;
+    margin-left: 955px;
+    margin-top: -35px;
+}
+.gelato {
+    margin-left: 320px;
+    margin-top: 50px;
+    font-family: sans-serif;
+    font-style: normal;
+}
+.gelato1 {
+    font-family: sans-serif;
+    margin-left: 570px;
+    margin-top: -35px;
+}
+
+.gelato2 {
+    font-family: sans-serif;
+    margin-left: 670px;
+    margin-top: -35px;
+}
+
+
+
+.gelato3 {
+    font-family: sans-serif;
+    margin-left: 735px;
+    margin-top: -35px;
+}
+.gelato4 {
+    font-family: sans-serif;
+    margin-left: 870px;
+    margin-top: -35px;
+}
+.gelato5 {
+    font-family: sans-serif;
+    margin-left: 955px;
+    margin-top: -35px;
+}
+.line3 {
+    width: 750px;
+    height: 1px;
+    background-color: black;
+    margin-left: 322px;
+    opacity: 15%;
+    margin-top: -55px;
+    position: absolute;
+}
+
+.line4 {
+    width: 750px;
+    height: 1px;
+    background-color: black;
+    margin-left: 322px;
+    opacity: 15%;
+    margin-top: -55px;
+    position: absolute;
+}
+
+.line5 {
+    width: 750px;
+    height: 1px;
+    background-color: black;
+    margin-left: 322px;
+    opacity: 15%;
+    margin-top: -55px;
+    position: absolute;
+}
